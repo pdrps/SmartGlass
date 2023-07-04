@@ -1,0 +1,34 @@
+
+.cabecalho{
+    background-color: black;
+    height: 90px;
+    width: 1922px;
+    margin-top: 20px;
+    margin-left: -10px;
+
+    display: flex;
+    flex-direction: row;
+}
+
+.menu{
+    display: flex;
+    flex-direction: column;
+}
+
+.pesquisa{
+    background-color: black;
+    color: white;
+    border: 1px solid white;
+
+    width: 500px;
+    height: 35px;
+    margin-top: 27px;
+    margin-left: 300px;
+}
+
+.marca{
+    margin-left: 500px;
+
+    display: flex;
+    flex-direction: row;
+}
