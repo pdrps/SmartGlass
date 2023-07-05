@@ -1,0 +1,77 @@
+body{
+    overflow-x: hidden;
+}
+
+.cabecalho{
+    background-color: black;
+    height: 90px;
+    width: 1922px;
+    margin-top: 20px;
+    margin-left: -10px;
+
+    display: flex;
+    flex-direction: row;
+}
+
+.marca{
+    margin-left: 500px;
+    margin-top: 10px;
+    margin-left: 600px;
+
+    display: flex;
+    flex-direction: row;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+.cadastro{
+    margin-left: 100px;
+    color: white;
+    width: 450px;
+    margin-left: 100px;
+    margin-top: 10px;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.coluna1{
+    height: 500px;
+    width: 500px;
+    margin-left: 400px;
+
+    display: flex;
+    flex-direction: column;
+}
+
+.coluna2{
+    height: 500px;
+    width: 500px;
+    margin-left: 1100px;
+    margin-top: -500px;
+
+    display: flex;
+    flex-direction: column;
+}
+
+.celula{
+    margin-top: 20px;
+
+    display: flex;
+    flex-direction: column;
+}
+
+.confirma{
+    margin-left: 700px;
+    height: 70px;
+    width: 700px;
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
